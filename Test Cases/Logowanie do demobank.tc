@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logowanie do demobank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a7fbb66-5328-43ca-9a09-cc165c25966d</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demobank.jaktestowac.pl/logowanie_prod.html'</defaultValue>
+      <description></description>
+      <id>61ebfc59-48ea-4b96-881c-17a3decc34a5</id>
+      <masked>false</masked>
+      <name>websiteUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>72bd73cc-bf08-4141-b15d-9fe07448f7b5</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>234a56bc-f296-41e4-bd4d-0a76a52ad77d</id>
+      <masked>false</masked>
+      <name>userPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Demobankowy'</defaultValue>
+      <description></description>
+      <id>99fc1626-cce8-4ff8-8b10-15a0dcf732ba</id>
+      <masked>false</masked>
+      <name>userLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jan'</defaultValue>
+      <description></description>
+      <id>b9701bf8-4090-4255-a0ca-e4d716188493</id>
+      <masked>false</masked>
+      <name>userFirstName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wykonanie przelewu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a3457f0-e393-4eec-9b06-dea909c08b8a</testCaseGuid>
+   <variable>
+      <defaultValue>'https://demobank.jaktestowac.pl/pulpit.html'</defaultValue>
+      <description></description>
+      <id>995c43e2-8d73-4af0-8f9b-431ca935d36e</id>
+      <masked>false</masked>
+      <name>websiteUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'Receiver'</defaultValue>
+      <description></description>
+      <id>a59a5a25-260d-4d9f-99bf-ffd5cbfa5e79</id>
+      <masked>false</masked>
+      <name>receiver</name>
+   </variable>
+   <variable>
+      <defaultValue>'12 1211 1211 1211 1211 1211 1211'</defaultValue>
+      <description></description>
+      <id>682e6483-1886-44b8-b37b-e876003a7883</id>
+      <masked>false</masked>
+      <name>accountId</name>
+   </variable>
+   <variable>
+      <defaultValue>123.12</defaultValue>
+      <description></description>
+      <id>62dc6412-f76e-429f-941a-9497210bd11c</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Subject'</defaultValue>
+      <description></description>
+      <id>c6da3328-ca00-4f8e-b43c-f459648fa039</id>
+      <masked>false</masked>
+      <name>subject</name>
+   </variable>
+   <variable>
+      <defaultValue>'01.01.2021'</defaultValue>
+      <description></description>
+      <id>fd248d14-ccb8-4b5d-9ffc-1017257da536</id>
+      <masked>false</masked>
+      <name>realisationDate</name>
+   </variable>
+   <variable>
+      <defaultValue>13159.20</defaultValue>
+      <description></description>
+      <id>a368a3e4-9ec3-4bac-a0f2-6f121be426bf</id>
+      <masked>false</masked>
+      <name>availableAmount</name>
+   </variable>
+</TestCaseEntity>

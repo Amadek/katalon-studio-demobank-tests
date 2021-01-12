@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FieldPassword</name>
+   <tag></tag>
+   <elementGuidId>55880522-6c90-4fc4-9e32-f20055fede03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/section/div/div/div/div/form/div/div[2]/div[1]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[id=&quot;login_password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
